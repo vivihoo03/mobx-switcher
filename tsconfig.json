@@ -1,0 +1,19 @@
+{
+    "files": [
+        "src/switcher.ts"
+    ],
+    "compilerOptions": {
+        "target": "es6",
+        "experimentalDecorators": true,
+        "module": "esnext",
+        "sourceMap": true,
+        "lib": ["es2017", "dom"],
+        "baseUrl": "./",
+        "declaration": true,
+        "paths": {
+            "mobx" : [
+                "node_modules/mobx/lib/index.js"
+            ]
+        }
+    },
+}

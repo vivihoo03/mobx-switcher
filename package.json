@@ -1,0 +1,32 @@
+{
+  "name": "mobx-switcher",
+  "version": "1.0.0",
+  "description": "for mobx switcher",
+  "main": "dist/swticher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivihoo03/mobx-switcher.git"
+  },
+  "keywords": [
+    "mobx",
+    "switcher",
+    "delay"
+  ],
+  "author": "ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivihoo03/mobx-switcher/issues"
+  },
+  "homepage": "https://github.com/vivihoo03/mobx-switcher#readme",
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "gulp": "4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "ts-node": "^8.9.1",
+    "typescript": "^3.8.3",
+    "mobx": "^5.15.4"
+  }
+}
