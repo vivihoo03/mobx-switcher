@@ -1,6 +1,6 @@
 {
   "name": "mobx-switcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "for mobx switcher",
   "main": "dist/switcher.js",
   "scripts": {
