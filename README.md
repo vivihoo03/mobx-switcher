@@ -8,10 +8,15 @@
 
 * process is split to two part, collect `work unit` and switcher trigger control
 
+### Quick start
+``` npm install mobx-switcher   ```
+    or 
+    ```yarn add mobx-switcher ```
+
 ### Example
 ``` 
 import { observable } from 'mobx';
-import { EffectSwitcher } from '../src/switcher';
+import { EffectSwitcher } from 'mobx-switcher';
 
 const obsStore = observable.map({
     name: 'ken'

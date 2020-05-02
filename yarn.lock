@@ -1280,6 +1280,11 @@ mixin-deep@^1.2.0:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
 
+mobx-switcher@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/mobx-switcher/-/mobx-switcher-1.0.1.tgz#e890313e5af7e6aeab04716a745c49e4b24f4a24"
+  integrity sha512-tdkhU2mIjXGxwhXdMiN+6qVP6iDHImqJr62boSF9NkA00G7nKz34RNiqZOi6cJx5ogPqCdahbHadATGwxtXqpQ==
+
 mobx@^5.15.4:
   version "5.15.4"
   resolved "https://registry.yarnpkg.com/mobx/-/mobx-5.15.4.tgz#9da1a84e97ba624622f4e55a0bf3300fb931c2ab"

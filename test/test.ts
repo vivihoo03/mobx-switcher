@@ -1,5 +1,5 @@
 import { observable } from 'mobx';
-import { EffectSwitcher } from '../src/switcher';
+import { EffectSwitcher } from 'mobx-switcher';
 
 const obsStore = observable.map({
     name: 'ken'

@@ -1,11 +1,10 @@
 {
   "name": "mobx-switcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "for mobx switcher",
-  "main": "dist/swticher.js",
+  "main": "dist/switcher.js",
   "scripts": {
-    "build": "gulp",
-    "publish": "npm publish"
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
@@ -26,8 +25,9 @@
     "@types/node": "^13.13.4",
     "gulp": "4.0.0",
     "gulp-typescript": "^6.0.0-alpha.1",
+    "mobx": "^5.15.4",
+    "mobx-switcher": "^1.0.1",
     "ts-node": "^8.9.1",
-    "typescript": "^3.8.3",
-    "mobx": "^5.15.4"
+    "typescript": "^3.8.3"
   }
 }
