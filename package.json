@@ -4,7 +4,8 @@
   "description": "for mobx switcher",
   "main": "dist/swticher.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp",
+    "publish": "npm publish"
   },
   "repository": {
     "type": "git",
